@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      letterSpacing: {
+        "share": "0.5em"
+      },
       fontFamily: {
         "manrope": ['"Manrope"', "cursive"]
       },
@@ -13,7 +16,7 @@ module.exports = {
         "desaturated-dark-blue": "#6D7F97",
         "grayish-blue": "#9EAFC2",
         "light-grayish-blue": "#ECF2F8"
-      }
+      },
     },
   },
   plugins: [],

@@ -13,13 +13,13 @@
 </head>
 <body>
     <section class="w-screen h-screen bg-light-grayish-blue flex justify-center items-center">
-        <div class="container mx-6 flex flex-col bg-white rounded-md overflow-hidden max-w-[310px]
+        <div class="container mx-6 flex flex-col bg-white rounded-lg overflow-hidden max-w-[310px]
         lg:flex-row lg:max-w-[660px]">
             <div class="overflow-hidden">
                 <img class="mb-[-45px] w-full h-full lg:scale-x-125 lg:ml-8"
                      src="../images/drawers.jpg" alt="drawers">
             </div>
-            <div class="px-6 py-6">
+            <div class="px-6 pt-6 pb-4 relative">
                 <p class="font-manrope font-bold text-very-dark-grayish-blue mb-2.5 lg:text-xl">
                     Shift the overall look and feel by adding these wonderful touches to furniture in your home
                 </p>
@@ -31,14 +31,30 @@
                     <img class="w-9 h-9 rounded-full" src="../images/avatar-michelle.jpg" alt="avatar">
                     <div class="mr-14 lg:mr-40">
                         <p class="font-manrope text-xs font-bold text-very-dark-grayish-blue">Michelle Appleton</p>
-                        <p class="font-manrope text-xs font-medium text-grayish-blue">28 June 2020</p>
+                        <p class="font-manrope text-xs font-medium text-very-dark-grayish-blue">28 June 2020</p>
                     </div>
-                    <button class="bg-light-grayish-blue p-2 rounded-full">
+                    <button id="shareBtn" class="bg-light-grayish-blue p-2 rounded-full z-10">
                         <img src="../images/icon-share.svg" alt="">
                     </button>
+                    <div id="social-media-container"
+                         class="absolute bg-very-dark-grayish-blue flex flex-row items-center gap-5 left-0 py-6 w-full
+                    pl-6 duration-300 hidden">
+                        <p class="text-light-grayish-blue font-manrope text-xs tracking-share">SHARE</p>
+                        <a href="https://www.facebook.com/" target="_blank">
+                            <img src="../images/icon-facebook.svg" alt="fb">
+                        </a>
+                        <a href="https://www.twitter.com/" target="_blank">
+                            <img src="../images/icon-twitter.svg" alt="twitter">
+                        </a>
+                        <a href="https://www.pinterest.com/" target="_blank">
+                            <img src="../images/icon-pinterest.svg" alt="pinterest">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
+
+    <script src="../dist/js/app.js"></script>
 </body>
 </html>
