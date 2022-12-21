@@ -4,9 +4,6 @@ module.exports = {
     "./src/**/*.{html,js,ts,jsx,tsx}",
   ],
   theme: {
-    fontSize: {
-      xs: "0.8rem"
-    },
     extend: {
       fontFamily: {
         "manrope": ['"Manrope"', "cursive"]

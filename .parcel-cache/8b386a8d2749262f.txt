@@ -23,7 +23,7 @@
 75C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\anymatch133160373130523627 1
 86C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\terser\package.json133160371782728672 0
 89C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\xxhash-wasm\types.d.ts133160371779603666 0
-59C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\.idea133160925999834430 1
+59C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\.idea133161297094790125 1
 112C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\caniuse-lite\data\features\text-decoration.js133160371788353660 0
 71C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\package-lock.json133160373133786755 0
 107C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\caniuse-lite\data\features\webworkers.js133160371788822402 0
@@ -52,7 +52,7 @@
 81C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\node-gyp-build133160371778666177 1
 87C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\resolve\test\core.js133160373131453626 0
 123C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133160371784603662 1
-58C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\dist133160927910898978 1
+58C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\dist133161299224823976 1
 97C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\yaml\dist\Document-9b4560a1.js133160371778353668 0
 97C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\postcss-value-parser\README.md133160371779134899 0
 111C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133160371781322409 0
@@ -92,7 +92,7 @@
 72C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\README-template.md133160376793060413 0
 111C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\tailwindcss\lib\lib\partitionApplyAtRules.js133160373132692997 0
 98C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\postcss\lib\css-syntax-error.js133160373130623626 0
-63C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\README.md133160376792904174 0
+63C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\README.md133160932001731151 0
 81C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\yaml\schema.js133160371781791165 0
 75C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\posthtml133160371778509922 1
 117C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\caniuse-lite\data\features\document-execcommand.js133160371785228653 0
@@ -102,7 +102,7 @@
 72C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\fastq133160373131063646 1
 96C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\svgo\plugins\removeViewBox.js133160371782728672 0
 70C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\dlv133160373130383315 1
-57C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\src133160927909180530 1
+57C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\src133161299223776909 1
 68C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\style-guide.md133160376793060413 0
 86C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\type-fest\base.d.ts133160371778666177 0
 92C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\tslib\CopyrightNotice.txt133160371779759904 0
@@ -117,7 +117,7 @@
 93C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\postcss\lib\stringifier.js133160373131443628 0
 101C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\@parcel\core\lib\Transformation.js133160371784134929 0
 90C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\acorn-walk\package.json133160373130383315 0
-72C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\tailwind.config.js133160443666239657 0
+72C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\tailwind.config.js133161284566449504 0
 91C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\resolve\test\symlinks.js133160373132235049 0
 77C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\acorn-walk133160373130823620 1
 95C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\@nodelib\fs.walk\out\readers133160373131493627 1
@@ -125,10 +125,10 @@
 96C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\@parcel\workers\src\Worker.js133160371781947395 0
 114C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\fast-glob\node_modules\glob-parent\CHANGELOG.md133160373130483628 0
 84C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\nth-check\lib\esm133160371781009901 1
-67C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\src\index.css133160918275147401 0
+67C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\src\index.css133161283186258025 0
 106C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\@parcel\transformer-babel\lib\config.js133160371779134899 0
 108C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\caniuse-lite\data\features\text-stroke.js133160371788353660 0
-68C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\src\index.html133160927909180530 0
+68C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\src\index.html133161299223776909 0
 108C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\caniuse-lite\data\features\geolocation.js133160371785697414 0
 83C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\minimist\LICENSE133160373130323303 0
 88C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\terser\bin\terser.mjs133160371782884912 0
@@ -1182,7 +1182,7 @@
 84C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\timsort\README.md133160371777259910 0
 90C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\@parcel\core\src\public133160371784134929 1
 96C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\type-fest\source\entries.d.ts133160371780072410 0
-69C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\dist\index.html133160927910898978 0
+69C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\dist\index.html133161299224743881 0
 96C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\ordered-binary\dist\index.cjs133160371777103641 0
 92C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\@parcel\transformer-babel133160371780853660 1
 113C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\@parcel\core\test\fixtures\parcel\package.json133160371784603662 0
@@ -1540,7 +1540,7 @@
 107C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\tailwindcss\src\util\normalizeScreens.js133160373132536738 0
 95C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\htmlnano\lib\presets\safe.js133160371781322409 0
 89C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\resolve\lib\homedir.js133160373131693622 0
-81C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\dist\index.61d3354a.css.map133160927834232056 0
+81C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\dist\index.61d3354a.css.map133161299224823976 0
 108C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\tailwindcss\src\util\withAlphaVariable.js133160373133161744 0
 109C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\caniuse-lite\data\features\svg-fragment.js133160371788197414 0
 110C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\tailwindcss\src\util\parseAnimationValue.js133160373132692997 0
@@ -2512,7 +2512,7 @@
 79C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\pify\license133160373130313342 0
 109C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\caniuse-lite\data\features\font-kerning.js133160371785697414 0
 84C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\pify\package.json133160373130012558 0
-67C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\.idea\vcs.xml133160357689134566 0
+67C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\.idea\vcs.xml133160932179425852 0
 118C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133160371781947395 0
 126C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.1133160371780853660 0
 98C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\caniuse-lite\data\regions\SM.js133160371788041149 0
@@ -3176,7 +3176,7 @@
 103C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\fast-glob\out\managers\patterns.d.ts133160373131843213 0
 98C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\caniuse-lite\data\regions\BD.js133160371782728672 0
 101C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\fast-glob\out\managers\patterns.js133160373131383645 0
-77C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\dist\index.61d3354a.css133160927834212063 0
+77C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\dist\index.61d3354a.css133161299224743881 0
 113C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\acorn-node\lib\private-class-elements\index.js133160373131103672 0
 96C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\escape-string-regexp\index.js133160371776947467 0
 95C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\node_modules\escape-string-regexp\license133160371777259910 0
@@ -5395,4 +5395,4 @@
 78C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\design\mobile-design.jpg133160377380256788 0
 78C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\.idea\article-mentor.iml133160357688978180 0
 71C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\.idea\modules.xml133160357689134566 0
-73C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\.idea\workspace.xml133160925999834430 0
+73C:\Users\jdcuk\Desktop\frontend-mentor\article-mentor\.idea\workspace.xml133161297094790125 0
